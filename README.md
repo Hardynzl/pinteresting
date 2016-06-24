@@ -3,7 +3,6 @@
 This is the pinteresting sample application for
 [*One Month Rails.*](http://onemonthrails.com)
 
-While you're at it check out
-[*Booktrack.*] (http://booktrack.com)
+Check out[*Booktrack.*] (http://booktrack.com) while you are at it.
 
-By [Hardy Michel}]
+By Hardy Michel.
